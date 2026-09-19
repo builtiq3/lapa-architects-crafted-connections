@@ -362,7 +362,7 @@ function Footer() {
 
         <div className="mt-14 flex flex-col gap-3 border-t border-border pt-7 font-mono text-[0.55rem] tracking-[0.2em] text-muted-foreground uppercase sm:flex-row sm:items-center sm:justify-between">
           <span>© {new Date().getFullYear()} LAPA Architects. All rights reserved.</span>
-           <span>Build by <a href="https://www.instagram.com/build_.iq/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors underline underline-offset-4 decoration-white/30 hover:decoration-white">BuildIQ</a></span>
+           <span>Website Designed by <a href="https://www.instagram.com/build_.iq/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors underline underline-offset-4 decoration-white/30 hover:decoration-white">BuildIQ</a></span>
           <span>Kerala · Dubai — Licensed design & build contractors</span>
         </div>
       </div>
